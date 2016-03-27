@@ -117,7 +117,7 @@ whitespaces (it will be parsed simply using Perl code C<< %attrs =
 
 The names will become object attributes, except special names that begin with
 underscore (C<_>), like C<_class>, C<_constructor>, etc. They mean the same as
-in L<Text::FromStruct>.
+in L<Tree::FromStruct>.
 
 To use this function, you must have at least one tree node class. Any class will
 do as long as it responds to C<parent> and C<children> (see
