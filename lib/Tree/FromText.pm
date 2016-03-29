@@ -16,4 +16,5 @@ object from text:
 
 =head1 SEE ALSO
 
-L<Tree::FromStruct>
+Other modules to create tree: L<Tree::FromStruct>, L<Tree::Create::Callback>,
+L<Tree::Create::Size>.
